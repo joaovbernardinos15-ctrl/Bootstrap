@@ -1,0 +1,68 @@
+.mb-3 {
+    padding: 20px;
+    width: 75%;
+    color: solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btn-primary {
+
+    margin: 45px;
+    width: 50%;
+   
+
+}
+.botao1 {
+    display: flex;
+    justify-content: center;
+}
+
+.all{
+    width: 75%;
+    border: solid 2px;
+    margin: 30px;
+    border-radius: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(223, 222, 221);
+}
+.bootstrap {
+    width: 150px;
+    justify-content: center;
+    display: flex;
+    border-radius: 20px;
+}
+.bootstrap1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+.form-text {
+    justify-content: center;
+    display: flex;
+
+}
+
+.Link1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#box {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 75%;
+
+}
+.input-group-text {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+  
