@@ -1,0 +1,24 @@
+.Navegador-1 {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 1850px;
+    gap: 20px;
+}
+.Navegador-2 {
+     justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 1850px;
+    gap: 20px;
+}
+.Navegador-3 {
+      justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 1850px;
+    gap: 20px;
+}
